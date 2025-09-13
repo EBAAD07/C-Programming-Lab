@@ -7,7 +7,6 @@
 *  **hello world**
 * *lets learn github*
 * ~~strikethrough~~
-  git status
   # TASK LIST
   * open github
   * open repo
